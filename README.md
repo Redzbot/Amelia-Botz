@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="AMELIA-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="REDZ-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 
